@@ -1,0 +1,4 @@
+Brend:Volvo
+Model:XC60
+Volume:10
+Price:2500000
